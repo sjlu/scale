@@ -1,0 +1,22 @@
+{
+  "name": "scale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scale.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjlu/scale.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjlu/scale/issues"
+  },
+  "homepage": "https://github.com/sjlu/scale#readme",
+  "dependencies": {
+  }
+}
